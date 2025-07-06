@@ -7,7 +7,8 @@ created using only **HTML and CSS**. The aim is to improve the **UI design, acce
 
 ## 🔗 Live Demo
 
-[Click Here to View the Live Demo](D:/HTML%20class/index.html)  
+[Click Here to View the Live Demo]
+[D:/HTML%20class/index.html] 
 
 
 
