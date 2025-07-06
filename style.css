@@ -1,0 +1,440 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f0f3f7;
+  text-align: center;
+}
+
+.header1{
+	width:100%;
+	height:auto;
+	background-color:#2f4058;
+	
+}
+.box1{
+	width:100%;
+	height:auto;
+	cursor:pointer;	
+}
+
+.box1 img{
+	width:100%;
+	height:130px;
+	float:left;
+    
+	
+}
+.container {
+  background: white;
+  margin: 30px auto;
+  width: 90%;
+  max-width: 1535px;
+  padding: 30px;
+  border: 2px solid rgba(0, 0, 0, .125);
+  box-shadow: 0 4px 12px rgba(0,0,0,24%);
+  border-radius: .25rem; 
+}
+.outer-box{
+
+	width:100%;
+	height:auto;
+	background-color:white;
+	padding-top:130px;
+	padding-bottom:5px;
+	border: 1px solid rgba(0, 0, 0, .125);
+	
+}
+
+.main-buttons {
+
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+
+.btn {
+  width: 200px;
+  height: 160px;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(1,0,0,0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  
+}
+.btn target{
+	color:white;
+	text-decoration:none;
+}
+.btn a{
+	color:white;
+	text-decoration:none;
+}
+.btn:hover {
+	box-shadow:rgba(0,3,0,0.88)0px 3px 6px,rgba(0,0,0,0.21)0px 3px 6px inset;
+	
+}
+
+.orange { background-color: #cb731f;}
+.red { background-color: #a74b45; }
+.green { background-color: #2c937a;}
+img{
+	width:150px;
+	height:auto;
+}
+.outer-box2{
+	width:100%;
+	height:auto;
+	background-color:white;
+	padding-top:437px;
+	padding-bottom:5px;
+    margin:23px 0px;
+	 border: 1px solid rgba(0, 0, 0, .125);
+}
+.inner-box2{
+  	background: white;
+  margin: -376px auto;
+  width: 80%;
+  
+  padding:30px 100px;
+  border: 2px solid rgba(0, 0, 0, .125);
+  box-shadow: 0 4px 12px rgba(0,0,0,24%);
+  border-radius: .25rem; 
+}
+.column1{
+	width:50%;
+	height:auto;
+	background-color:white;
+	margin: 10px 15px;
+	
+}
+.box50{
+	margin:13px 141px;
+	width:80%;
+	height:80px;
+	margin-bottom:50px;	
+	background-color:#b570ac;
+	border-radius:.25rem;
+	border: 2px solid rgba(250, 250, 250, 1);
+  box-shadow: 0 4px 12px rgba(0,0,0,24%);
+  border-radius: .25rem; 
+  cursor:pointer;
+}
+.box51{
+	margin:13px 141px;
+	width:80%;
+	height:80px;
+	margin-bottom:50px;
+	background-color:#bb1d1d;
+	border: 2px solid rgba(250, 250, 250, 1);
+  box-shadow: 0 4px 12px rgba(0,0,0,24%);
+  border-radius: .25rem; 
+  cursor:pointer;
+}
+.pen img{
+	width:60%;
+	height:50px;
+}
+.pink{
+	background-color:white;
+	width:20%;
+	height:80px;
+}
+.pink img{
+	width:60%;
+	height:50px;
+}
+.name1 h6{
+	display: flex;
+  justify-content: center;
+	font-weight:bolder;
+	float:right;
+	margin:-41px -291px;
+	color:white;
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	width:80%;
+    padding:1px 55px;
+	height:50px;
+	font-size:13px;
+	text-align:center;
+	letter-spacing: 0.1em;
+	
+}
+.pen{
+	background-color:white;
+	width:20%;
+	height:80px;
+}
+.name2 h6{
+	display: flex;
+  justify-content: center;
+	font-weight:bolder;
+	float:right;
+	margin:-41px -291px;
+	color:white;
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	width:80%;
+    padding:7px 55px;
+	height:50px;
+	font-size:18px;
+	text-align:center;
+	letter-spacing: 0.1em;
+	
+}
+.column2{
+	width:47%;
+	height:auto;
+	background-color:white;
+	margin: -135px -9px;
+	float:right;
+	
+}
+.box53{
+	float:right;
+	width:80%;
+	height:80px;
+	margin-bottom:50px;	
+	background-color:#9b5353;
+	border: 2px solid rgba(250, 250, 250, 1);
+  box-shadow: 0 4px 12px rgba(0,0,0,24%);
+  border-radius: .25rem; 
+  cursor:pointer;
+	
+}
+.headings{
+	width:50%;
+	height:50px;
+	margin: 4px 10px;
+	
+}
+h2{
+	width:235%;
+	height:50px;
+	color:#1e64bf;
+	margin:-71px -72px;
+	
+}
+.car{
+	background-color:white;
+	width:20%;
+	height:80px;
+}
+.name3 h6{
+	display: flex;
+  justify-content: center;
+	font-weight:bolder;
+	float:right;
+	margin:-41px -291px;
+	color:white;
+	font-family: "Roboto", Helvetica, Arial, sans-serif;
+	text-align:center;
+	width:130%;
+    padding:7px 50px;
+	height:50px;
+	font-size:14px;
+	text-align:center;
+	letter-spacing: 0.1em;
+	
+}
+.car img{
+	width:60%;
+	height:50px;
+}
+.box53:hover{
+ box-shadow:rgba(0,0,0,0.48)0px 4px 8px,rgba(0,0,0,0.23)0px 4px 8px ;
+}
+.box50:hover{
+ box-shadow:rgba(0,0,0,0.48)0px 4px 8px,rgba(0,0,0,0.23)0px 4px 8px;
+}
+.box51:hover{
+ box-shadow:rgba(0,0,0,0.48)0px 4px 8px,rgba(0,0,0,0.23)0px 4px 8px ;
+}
+	
+	.Content2{
+	width: 97.2%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	display:flex;
+	padding-top:91px;
+	background-color:#1c529b;
+	}
+	.inner-box{
+	width: 80%;
+	height:236px;
+    padding-right: 15px;
+    padding-left: 25%;
+    margin-right: auto;
+    margin-left: auto;
+	display:flex;
+	background-color:#1c529b;
+	}
+	 .cl1{
+	    max-width: 50%;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		background-color:white;
+	}
+	.cl1 a{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+	color: white;
+		
+	}
+	.inner-box  .cl2{
+	     max-width: 20%;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		background-color:#1c529b;
+		
+	}
+.inner-box	.cl2 a{
+		color:white;	
+		text-decoration:none;
+		padding-left:20px;
+		display:flex;
+		padding: 6px 12px;
+		font-size:26px;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";	    
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 0.5;
+    color: white;
+    text-align: left;
+    
+		
+	}
+.inner-box  h2{
+	
+    padding-bottom: 5px;
+    margin-bottom: -14px;
+	margin-left:-172px;
+	font-weight:normal;
+	font-size:21px;
+	font-family:font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	color:white;
+	text-decoration:underline;
+	text-decoration:none;
+}
+	.cl3{
+		max-width: 20%;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		background-color:;
+	}
+	.cl3 a{
+		color:white;	
+		text-decoration:none;
+		padding-left:20px;
+		display:flex;
+		padding:  2px 12px;
+		font-size:26px;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";	    
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: left;
+	}
+	.cl4{
+		 max-width: 20%;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		
+	}
+	.cl4 a{
+		color:white;	
+		text-decoration:none;
+		padding-left:20px;
+		display:flex;
+		padding: 2px 12px;
+		font-size:26px;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";	    
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: -0.1;
+    color: white;
+    text-align: left;
+	}
+	.cl5{
+		 max-width: 20%;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		
+	}
+	.cl5 a{
+		color:white;	
+		text-decoration:none;
+		padding-left:20px;
+		display:flex;
+		padding: 5px 12px;
+		font-size:26px;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";	    
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    color: white;
+    text-align: left;
+	}
+	.cl6{
+		 max-width: 50%;
+		height:auto;
+		margin:0px;
+		padding:0px;
+		background-color:green;
+	}
+	.cl6 a{
+		color:#007bff;	
+		text-decoration:none;
+		display:flex;
+		padding: 6px 12px;
+		font-size:21px;
+		border-bottom:solid 1px #dbdee0;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+		font-weight: 600;
+	}
+.header8{width:96.8%;
+		 height:200px;
+		 background-color:black;
+
+
+}
+footer {
+    text-align: center;
+    background-color: #000000;
+    color: white;
+    padding: 25px;
+    font-size: 15px;
+	width:101%;
+	
+}
+
+footer strong {
+    display: block;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+footer  u { float:left;
+}
+.header8 p{ font-size:17px;
+		color:white;
+		text-align:center;
+
+}
